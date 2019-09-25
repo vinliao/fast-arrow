@@ -9,8 +9,8 @@ By installing this extension, you will get couple of keywords to write out fast 
 - fai (**f**ast **a**rrow **i**nline)
 
 Here is the way to create simple fat arrow
-![Image 1](./images/1.png)
-![Image 2](./images/2.png)
+![Image 1](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/1.png)
+![Image 2](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/2.png)
 
 ## Installation
 You can download this from your vscode extension marketplace.

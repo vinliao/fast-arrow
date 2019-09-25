@@ -4,6 +4,10 @@
     "description": "Write fat arrow in less than 1 second",
     "version": "1.0.0",
     "icon": "icon.png",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/vinliao/vscode-bcdn"
+	},
     "publisher": "vinliao",
     "engines": {
         "vscode": "^1.38.0"
