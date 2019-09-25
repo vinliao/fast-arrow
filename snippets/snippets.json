@@ -1,0 +1,27 @@
+{
+	"Create fat arrow": {
+		"prefix": "fa",
+		"body": [
+			"() => {",
+			"  $1",
+			"}"
+		],
+		"description": "Create a simple fat arrow"
+	},
+	"Create fat arrow with params": {
+		"prefix": "fap",
+		"body": [
+			"($1) => {",
+			"  ",
+			"}"
+		],
+		"description": "Create a fat arrow with cursor on params"
+	},
+	"Create inline fat arrow": {
+		"prefix": "fai",
+		"body": [
+			"() => {}"
+		],
+		"description": "Create an inline fat arrow"
+	}
+}

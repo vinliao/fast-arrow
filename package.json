@@ -1,0 +1,34 @@
+{
+    "name": "fast-arrow",
+    "displayName": "Fast Arrow",
+    "description": "Write fat arrow in less than 1 second",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "publisher": "vinliao",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "languages": [{
+                    "id": "vue",
+                    "extensions": [ ".vue" ],
+                    "aliases": [ "Vue", "vue", "vue.js" ]
+                }],
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
