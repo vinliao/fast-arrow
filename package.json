@@ -2,12 +2,12 @@
     "name": "fast-arrow",
     "displayName": "Fast Arrow",
     "description": "Write fat arrow in less than 1 second",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "icon": "icon.png",
     "repository": {
-		"type": "git",
-		"url": "https://github.com/vinliao/vscode-bcdn"
-	},
+        "type": "git",
+        "url": "https://github.com/vinliao/vscode-bcdn"
+    },
     "publisher": "vinliao",
     "engines": {
         "vscode": "^1.38.0"
@@ -26,11 +26,19 @@
                 "path": "./snippets/snippets.json"
             },
             {
-                "languages": [{
-                    "id": "vue",
-                    "extensions": [ ".vue" ],
-                    "aliases": [ "Vue", "vue", "vue.js" ]
-                }],
+                "languages": [
+                    {
+                        "id": "vue",
+                        "extensions": [
+                            ".vue"
+                        ],
+                        "aliases": [
+                            "Vue",
+                            "vue",
+                            "vue.js"
+                        ]
+                    }
+                ],
                 "path": "./snippets/snippets.json"
             }
         ]
