@@ -2,11 +2,11 @@
     "name": "fast-arrow",
     "displayName": "Fast Arrow",
     "description": "Write fat arrow in less than 1 second",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vinliao/vscode-bcdn"
+        "url": "https://github.com/vinliao/fast-arrow"
     },
     "publisher": "vinliao",
     "engines": {

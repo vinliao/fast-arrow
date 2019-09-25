@@ -1,5 +1,5 @@
 # About
-This is an extension that lets you write fat arrow in less than 1 seconds. Writing `() => {}` takes 8 keyboard presses, now you can do it in 2. Just type in `fa` and press enter and you get your fast arrow!
+This is VSCode extension that lets you write fat arrow in less than 1 seconds. Writing `() => {}` takes 8 keyboard presses, now you can do it in 2. Just type in `fa` and press enter and you get your fast arrow!
 
 ## Features
 By installing this extension, you will get couple of keywords to write out fast arrow. Here are the current keywords:
