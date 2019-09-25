@@ -2,7 +2,7 @@
     "name": "fast-arrow",
     "displayName": "Fast Arrow",
     "description": "Write arrow function in less than 1 second",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "icon": "icon.png",
     "repository": {
         "type": "git",

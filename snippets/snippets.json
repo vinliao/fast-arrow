@@ -24,13 +24,13 @@
 		],
 		"description": "Create an inline arrow function"
 	},
-	"Create async arrow function": {
-		"prefix": "faa",
+	"Create an arrow function with response params": {
+		"prefix": "far",
 		"body": [
-			"async () => {",
+			"response => {",
 			"  $0",
 			"}"
 		],
-		"description": "Create an inline arrow function"
+		"description": "Create an arrow function with response params"
 	}
 }
