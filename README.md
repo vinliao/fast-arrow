@@ -12,6 +12,8 @@ By installing this extension, you will get couple of keywords to write out fast 
 Here is the way to create simple arrow function
 ![Image 1](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/1.png)
 ![Image 2](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/2.png)
+![Image 2](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/2.png)
+![Image 2](./images/return4.gif)
 
 ## Installation
 You can find this extension inside your VSCode's marketplace. Search for the name "fast arrow"
