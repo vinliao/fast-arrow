@@ -5,9 +5,9 @@ This is VSCode extension that lets you write arrow function in less than 1 secon
 By installing this extension, you will get couple of keywords to write out fast arrow. Here are the current keywords:
 
 - fa (**f**ast **a**rrow)
-- fap (**f**ast **a**rrow **p**arams)
-- fai (**f**ast **a**rrow **i**nline)
-- faa (**f**ast **a**rrow **a**sync)
+- fap (**f**ast **a**rrow **p**arams, create arrow function and put cursor on params)
+- fai (**f**ast **a**rrow **i**nline, create inline arrow function )
+- faa (**f**ast **a**rrow **a**sync, create arrow function with async keyword)
 
 Here is the way to create simple arrow function
 ![Image 1](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/1.png)
