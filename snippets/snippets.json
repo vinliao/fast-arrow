@@ -1,27 +1,36 @@
 {
-	"Create fat arrow": {
+	"Create simple arrow function": {
 		"prefix": "fa",
 		"body": [
 			"() => {",
 			"  $1",
 			"}"
 		],
-		"description": "Create a simple fat arrow"
+		"description": "Create a simple arrow function"
 	},
-	"Create fat arrow with params": {
+	"Create arrow function with params": {
 		"prefix": "fap",
 		"body": [
 			"($1) => {",
 			"  ",
 			"}"
 		],
-		"description": "Create a fat arrow with cursor on params"
+		"description": "Create a arrow function with cursor on params"
 	},
-	"Create inline fat arrow": {
+	"Create inline arrow function": {
 		"prefix": "fai",
 		"body": [
 			"() => {}"
 		],
-		"description": "Create an inline fat arrow"
+		"description": "Create an inline arrow function"
+	},
+	"Create async arrow function": {
+		"prefix": "faa",
+		"body": [
+			"async () => {",
+			"  $1",
+			"}"
+		],
+		"description": "Create an inline arrow function"
 	}
 }
