@@ -8,14 +8,14 @@
 		],
 		"description": "Create a simple arrow function"
 	},
-	"Create arrow function with params": {
-		"prefix": "fap",
+	"Create arrow function with arguments": {
+		"prefix": "faa",
 		"body": [
 			"($0) => {",
 			"  ",
 			"}"
 		],
-		"description": "Create a arrow function with cursor on params"
+		"description": "Create a arrow function with cursor on arguments/params"
 	},
 	"Create inline arrow function": {
 		"prefix": "fai",

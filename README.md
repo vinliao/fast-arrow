@@ -6,14 +6,14 @@ This is a VSCode snippets that lets you write arrow function in less than 1 seco
 This stands for **f**ast **a**rrow and it will turn to
 ```
 () => {
-  [YOUR CURSOR HERE]
+  YOUR_CURSOR_HERE
 }
 ```
 
-### `fap`
-This stands for **f**ast **a**rrow **p**arams (Still haven't found a better alternative, unfortunately) and it will turn to
+### `faa`
+This stands for **f**ast **a**rrow **a**rgs and it will turn to
 ```
-([YOUR CURSOR HERE]) => {
+(YOUR_CURSOR_HERE) => {
 
 }
 ```
@@ -21,14 +21,14 @@ This stands for **f**ast **a**rrow **p**arams (Still haven't found a better alte
 ### `fai`
 This stands for **f**ast **a**rrow **i**nline and it will turn to
 ```
-() => {}[YOUR CURSOR HERE]
+() => {}YOUR_CURSOR_HERE
 ```
 
 ### `far`
 This stands for **f**ast **a**rrow **r**esponse and it will turn to
 ```
 response => {
-  [YOUR CURSOR HERE]
+  YOUR_CURSOR_HERE
 }
 ```
 

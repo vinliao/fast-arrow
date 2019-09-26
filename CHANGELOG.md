@@ -1,3 +1,7 @@
+## [1.0.6]
+### Added
+- Changed the `fap` (fast arrow params) arguments to `faa` (fast arrow args)
+
 ## [1.0.5]
 ### Added
 - Removed `faa` keyword because it's useless
