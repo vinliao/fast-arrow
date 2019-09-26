@@ -1,6 +1,11 @@
 # About
 This is a VSCode snippets that lets you write arrow function in less than 1 seconds. Writing `() => {}` takes 8 keyboard presses, now you can do it in 2. Just type in `fa` and press `Enter`/`Tab` and you get your arrow function!
 
+This snippet is supported on
+- .js
+- .ts
+- .vue
+
 ## Available snippets
 ### `fa`
 This stands for **f**ast **a**rrow and it will turn to
