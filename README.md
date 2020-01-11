@@ -5,6 +5,8 @@ This snippet is supported on
 - .js
 - .ts
 - .vue
+- .jsx
+- .tsx
 
 ## Available snippets
 ### `fa`
