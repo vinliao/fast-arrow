@@ -8,6 +8,8 @@ This snippet is supported on
 - .jsx
 - .tsx
 
+![gif](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/faster.gif)
+
 ## Available snippets
 ### `fa`
 This stands for **f**ast **a**rrow and it will turn to
@@ -38,10 +40,6 @@ response => {
   YOUR_CURSOR_HERE
 }
 ```
-
-Here's a simple example of writing an arrow function
-![Image 1](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/1.png)
-![Image 2](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/2.png)
 
 ## Installation
 You can find this inside your VSCode's marketplace. Search for the name "fast arrow"
