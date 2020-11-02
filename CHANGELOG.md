@@ -1,3 +1,11 @@
+## [1.0.8]
+### Added
+- Update readme to include gif
+
+## [1.0.7]
+### Added
+- Supports `.tsx` and `.jsx` now.
+
 ## [1.0.6]
 ### Added
 - Changed the `fap` (fast arrow params) arguments to `faa` (fast arrow args)
