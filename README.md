@@ -1,5 +1,5 @@
-# About
-This is a VSCode snippets that lets you write arrow function in less than 1 seconds.
+# Fast arrow
+This is a VSCode snippet to write JS arrow function really fast
 
 ![gif](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/faster.gif)
 
