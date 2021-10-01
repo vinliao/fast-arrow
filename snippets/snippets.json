@@ -2,7 +2,7 @@
 	"Create simple arrow function": {
 		"prefix": "fa",
 		"body": [
-			"() => {",
+			"= () => {",
 			"  $0",
 			"}"
 		],
@@ -11,7 +11,7 @@
 	"Create arrow function with arguments": {
 		"prefix": "faa",
 		"body": [
-			"($0) => {",
+			"= ($0) => {",
 			"  ",
 			"}"
 		],
@@ -20,7 +20,7 @@
 	"Create inline arrow function": {
 		"prefix": "fai",
 		"body": [
-			"() => {}"
+			"= () => {}"
 		],
 		"description": "Create an inline arrow function"
 	},
