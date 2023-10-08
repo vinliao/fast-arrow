@@ -9,6 +9,7 @@ This snippet is supported on
 - .vue
 - .jsx
 - .tsx
+- .dart
 
 
 ## Available snippets
