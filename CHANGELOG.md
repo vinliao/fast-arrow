@@ -1,3 +1,7 @@
+## [1.1.0]
+### Added
+- Supports `.dart` now.
+
 ## [1.0.8]
 ### Added
 - Update readme to include gif
@@ -22,7 +26,7 @@
 
 ## [1.0.3]
 ### Added
-- Added `fai` keyword for creating inline arrow function 
+- Added `fai` keyword for creating inline arrow function
 
 ## [1.0.2]
 ### Added

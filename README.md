@@ -1,7 +1,7 @@
 # Fast arrow
-This is a VSCode snippet to write JS arrow function really fast
+This is a VSCode snippet to write arrow functions really fast
 
-![gif](https://raw.githubusercontent.com/vinliao/fast-arrow/master/images/faster.gif)
+![gif](/images/faster.gif)
 
 This snippet is supported on
 - .js
@@ -9,6 +9,7 @@ This snippet is supported on
 - .vue
 - .jsx
 - .tsx
+- .dart
 
 
 ## Available snippets

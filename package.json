@@ -48,6 +48,10 @@
                     }
                 ],
                 "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "dart",
+                "path": "./snippets/snippets.json"
             }
         ]
     }
